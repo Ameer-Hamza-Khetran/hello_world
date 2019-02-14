@@ -1,2 +1,2 @@
 # hello_world
-creating my first repository
+Its Ameer Hamza Khetran.
